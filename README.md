@@ -23,4 +23,20 @@ Query 2 provides managers with a clear view of match outcomes by identifying the
 
 Query 3 allows managers to see which sponsors are making significant financial contributions and whether those investments are yielding strong returns. By filtering for high contributions and strong ROI, managers can identify their most valuable sponsor relationships to prioritize and maintain a relationship with them. This information is critical for the future, whenever sponsorship deals need to be negotiated. This metric also allows managers to ensure that tournaments can maintain financial stability by putting a focus on partners that provide a higher impact.
 
+  4. Query 4 summarizes sponsorship performance for each tournament and categorizes tournaments into funding levels based on total sponsorship contributions.
+
+Query 4 helps managers understand how sponsorship is distributed across tournaments by showing the number of sponsors, total funding received, and the average ROI. By grouping tournaments into funding levels, managers can quickly identify which events are attracting strong financial support and which may need more sponsor outreach. This insight is useful for planning future tournaments, improving sponsorship strategies, and allocating resources more effectively.
+
+  5. Query 5 identifies teams that earned above-average prize money within their respective tournaments.
+
+Query 5 allows managers to evaluate team performance from a financial perspective by highlighting teams that outperform the average prize earnings in each tournament. This helps identify top-performing teams and understand how prize money is distributed among competitors. These insights can support decisions related to team recognition, sponsorship targeting, and evaluating overall tournament competitiveness.
+
+  6. Query 6 shows how each team performed in each tournament by comparing their expected ranking (seed number) to their actual result (final rank).
+
+Query 6 helps managers assess team performance relative to expectations by displaying both the seed number and final rank for each team. This allows managers to identify teams that overperformed or underperformed, which can be useful for evaluating competitive balance and improving future tournament seeding decisions. It also provides insight into overall tournament outcomes and team consistency.
+  
+  7. Query 7 provides a basic overview of all tournaments and their key details, including timing, status, and location.
+
+Query 7 gives managers a clear view of all tournaments by displaying important operational details such as start and end dates, status, and location. This information is useful for scheduling, tracking tournament progress, and ensuring events are organized efficiently. It also helps managers monitor ongoing and completed tournaments for better planning and coordination.
+
 ## Database Information:
