@@ -17,6 +17,7 @@
 Query 1 helps tournament managers track player participation across different teams as well as events, which is essential for tournament roster management. By seeing which players are associated with specific teams in each tournament, managers are able to ensure there are no violations in a database, such as a player marked in multiple teams in the same tournament. Additionally, this information helps marketing decisions, such as promoting a specific well-known player in a certain tournament.
 
   2. Query 2 lists each match's respective winning team, displaying the winning team's score, what tournament the match happened in, and their match ID.
+<img width="2060" height="1228" alt="image" src="https://github.com/user-attachments/assets/79b715d8-6daa-4374-ae6a-0bb036f8de9f" />
 
 Query 2 provides managers with a clear view of match outcomes by identifying the winning team, as well as their respective performance in their winning match. This is crucial to validate match results, and to make sure the tournament brackets are advancing correctly. Managers can also use this information to analyze trends, such as dominating teams, or matches with higher scores. This insight allows managers to view and evaluate tournament quality and competitiveness, which is valuable to the operative side of E-Sports, and the audience’s side. 
 
