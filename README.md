@@ -3,7 +3,11 @@
 ## Team Name:
 61608 - Group 7
 ## Team Members:
-
+1. Jamie Kim -
+2. Sienna Wong - 
+3. Shaehaan Khaja -
+4. Seth White -
+5. Owen Verlander - 
 ## Problem Description:
 
 ## Data Model
