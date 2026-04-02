@@ -4,9 +4,9 @@
 61608 - Group 7
 ## Team Members:
 1. Jamie Kim - [@Jamie-S-Kim](https://github.com/Jamie-S-Kim)
-2. Sienna Wong - [@s1ennawong](https://github.com)
-3. Shaehaan Khaja - [@shaehaankhaja](https://github.com)
-4. Seth White - [@sethwhite444](https://github.com)
+2. Sienna Wong - [@s1ennawong](https://github.com/s1ennawong)
+3. Shaehaan Khaja - [@shaehaankhaja](https://github.com/shaehaankhaja)
+4. Seth White - [@sethwhite444](https://github.com/sethwhite444)
 5. Owen Verlander - 
 ## Problem Description:
 
