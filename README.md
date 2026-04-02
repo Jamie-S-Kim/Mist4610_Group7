@@ -12,6 +12,7 @@
 
 ## Queries:
   1. Query 1 selects a list of each player, and includes the teams and the tournaments they partcipated in.
+<img width="2206" height="1216" alt="image" src="https://github.com/user-attachments/assets/c01f72b8-9968-4a0a-af27-86f2ca8e527f" />
 
 Query 1 helps tournament managers track player participation across different teams as well as events, which is essential for tournament roster management. By seeing which players are associated with specific teams in each tournament, managers are able to ensure there are no violations in a database, such as a player marked in multiple teams in the same tournament. Additionally, this information helps marketing decisions, such as promoting a specific well-known player in a certain tournament.
 
