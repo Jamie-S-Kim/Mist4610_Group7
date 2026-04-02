@@ -3,7 +3,7 @@
 ## Team Name:
 61608 - Group 7
 ## Team Members:
-1. Jamie Kim - [@Jamie-S-Kim](https://github.com)
+1. Jamie Kim - [@Jamie-S-Kim](https://github.com/Jamie-S-Kim)
 2. Sienna Wong - [@s1ennawong](https://github.com)
 3. Shaehaan Khaja - [@shaehaankhaja](https://github.com)
 4. Seth White - [@sethwhite444](https://github.com)
