@@ -3,10 +3,10 @@
 ## Team Name:
 61608 - Group 7
 ## Team Members:
-1. Jamie Kim -
-2. Sienna Wong - 
-3. Shaehaan Khaja -
-4. Seth White -
+1. Jamie Kim - @Jamie-S-Kim
+2. Sienna Wong - @s1ennawong
+3. Shaehaan Khaja - @shaehaankhaja
+4. Seth White - @sethwhite444
 5. Owen Verlander - 
 ## Problem Description:
 
