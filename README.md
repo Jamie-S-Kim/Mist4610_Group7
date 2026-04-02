@@ -20,13 +20,13 @@ Query 1 helps tournament managers track player participation across different te
 <img width="2060" height="1228" alt="image" src="https://github.com/user-attachments/assets/79b715d8-6daa-4374-ae6a-0bb036f8de9f" />
 
 Query 2 provides managers with a clear view of match outcomes by identifying the winning team, as well as their respective performance in their winning match. This is crucial to validate match results, and to make sure the tournament brackets are advancing correctly. Managers can also use this information to analyze trends, such as dominating teams, or matches with higher scores. This insight allows managers to view and evaluate tournament quality and competitiveness, which is valuable to the operative side of E-Sports, and the audience’s side. 
-<img width="2186" height="952" alt="image" src="https://github.com/user-attachments/assets/07c114d1-47b1-4d37-b2cb-6df9e0f08733" />
 
   3. Query 3 creates a list of sponsors, which tournament they sponsored, their contributions, and their respective ROI metric. This is filtered to select sponsors that donated over at least $50,000, and their ROI being over at least 100, ordered by the sponsor's name, and tournament ID.
-
+<img width="2186" height="952" alt="image" src="https://github.com/user-attachments/assets/07c114d1-47b1-4d37-b2cb-6df9e0f08733" />
 Query 3 allows managers to see which sponsors are making significant financial contributions and whether those investments are yielding strong returns. By filtering for high contributions and strong ROI, managers can identify their most valuable sponsor relationships to prioritize and maintain a relationship with them. This information is critical for the future, whenever sponsorship deals need to be negotiated. This metric also allows managers to ensure that tournaments can maintain financial stability by putting a focus on partners that provide a higher impact.
 
-  4. Query 4 summarizes sponsorship performance for each tournament and categorizes tournaments into funding levels based on total sponsorship contributions.
+
+  5. Query 4 summarizes sponsorship performance for each tournament and categorizes tournaments into funding levels based on total sponsorship contributions.
 
 Query 4 helps managers understand how sponsorship is distributed across tournaments by showing the number of sponsors, total funding received, and the average ROI. By grouping tournaments into funding levels, managers can quickly identify which events are attracting strong financial support and which may need more sponsor outreach. This insight is useful for planning future tournaments, improving sponsorship strategies, and allocating resources more effectively.
 
