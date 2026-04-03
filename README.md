@@ -14,6 +14,7 @@
 <img width="1530" height="1476" alt="IMG_8415" src="https://github.com/user-attachments/assets/7ea0c59b-a278-43b8-ad70-9d04b714e7ab" />
 
 ## Data Dictionary:
+<img width="773" height="444" alt="Screenshot 2026-04-03 at 6 01 49 PM" src="https://github.com/user-attachments/assets/ce25fbe1-197f-4b3d-b773-f04399164ccf" />
 
 ## Queries:
   1. Query 1 selects a list of each player, and includes the teams and the tournaments they partcipated in, ordered by the tournament ID, team ID, and match ID.
