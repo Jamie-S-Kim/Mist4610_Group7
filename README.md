@@ -40,6 +40,7 @@ Query 4 helps managers understand how sponsorship is distributed across tourname
 Query 5 allows managers to evaluate team performance from a financial perspective by highlighting teams that outperform the average prize earnings in each tournament. This helps identify top-performing teams and understand how prize money is distributed among competitors. These insights can support decisions related to team recognition, sponsorship targeting, and evaluating overall tournament competitiveness.
 
   6. Query 6 shows how each team performed in each tournament by comparing their expected ranking (seed number) to their actual result (final rank).
+<img width="1018" height="594" alt="query6_results" src="https://github.com/user-attachments/assets/3611b592-f712-49f8-a4e1-1118c285f30f" />
 
 Query 6 helps managers assess team performance relative to expectations by displaying both the seed number and final rank for each team. This allows managers to identify teams that overperformed or underperformed, which can be useful for evaluating competitive balance and improving future tournament seeding decisions. It also provides insight into overall tournament outcomes and team consistency.
   
