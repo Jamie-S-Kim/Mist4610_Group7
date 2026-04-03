@@ -33,10 +33,12 @@ Query 3 allows managers to see which sponsors are making significant financial c
 
   4. Query 4 summarizes sponsorship performance for each tournament and categorizes tournaments into funding levels based on total sponsorship contributions.
 <img width="1020" height="607" alt="query4_results" src="https://github.com/user-attachments/assets/42f61c41-16df-4e7b-b3c2-4de8a161714b" />
+
 Query 4 helps managers understand how sponsorship is distributed across tournaments by showing the number of sponsors, total funding received, and the average ROI. By grouping tournaments into funding levels, managers can quickly identify which events are attracting strong financial support and which may need more sponsor outreach. This insight is useful for planning future tournaments, improving sponsorship strategies, and allocating resources more effectively.
 
   5. Query 5 identifies teams that earned above-average prize money within their respective tournaments.
 <img width="1015" height="604" alt="query5_results" src="https://github.com/user-attachments/assets/66677788-8d41-4bc4-8c90-34ebd1b37936" />
+
 Query 5 allows managers to evaluate team performance from a financial perspective by highlighting teams that outperform the average prize earnings in each tournament. This helps identify top-performing teams and understand how prize money is distributed among competitors. These insights can support decisions related to team recognition, sponsorship targeting, and evaluating overall tournament competitiveness.
 
   6. Query 6 shows how each team performed in each tournament by comparing their expected ranking (seed number) to their actual result (final rank).
