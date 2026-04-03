@@ -45,6 +45,7 @@ Query 5 allows managers to evaluate team performance from a financial perspectiv
 Query 6 helps managers assess team performance relative to expectations by displaying both the seed number and final rank for each team. This allows managers to identify teams that overperformed or underperformed, which can be useful for evaluating competitive balance and improving future tournament seeding decisions. It also provides insight into overall tournament outcomes and team consistency.
   
   7. Query 7 provides an overview of tournaments by displaying their dates, duration, status, and location, while filtering for tournaments with valid locations and relevant statuses.
+<img width="992" height="607" alt="query7_results" src="https://github.com/user-attachments/assets/bd5ee3fc-3078-4e29-9fbb-7ee7ae750837" />
 
 Query 7 helps managers review important operational details about tournaments, including how long each event lasts and where it is being held. By filtering for tournaments with meaningful statuses and valid locations, managers can focus on events that are most relevant for scheduling, planning, and monitoring tournament activity.
 
