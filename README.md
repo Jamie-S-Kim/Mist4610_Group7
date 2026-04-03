@@ -78,5 +78,11 @@ Query 6 helps managers assess team performance relative to expectations by displ
 
 Query 7 helps managers review important operational details about tournaments, including how long each event lasts and where it is being held. By filtering for tournaments with meaningful statuses and valid locations, managers can focus on events that are most relevant for scheduling, planning, and monitoring tournament activity.
 
+8. Query 8
+
+9. Query 9
+
+10. Query 10
+
 ## Database Information:
 - Name of the database: ns_Sp26_61608_Group7
