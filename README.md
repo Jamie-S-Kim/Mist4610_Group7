@@ -15,6 +15,13 @@
 
 ## Data Dictionary:
 <img width="773" height="444" alt="Screenshot 2026-04-03 at 6 01 49 PM" src="https://github.com/user-attachments/assets/ce25fbe1-197f-4b3d-b773-f04399164ccf" />
+<img width="740" height="346" alt="Screenshot 2026-04-03 at 6 03 22 PM" src="https://github.com/user-attachments/assets/4f736bb5-8020-48a5-883b-3734af554131" />
+<img width="726" height="233" alt="Screenshot 2026-04-03 at 6 03 43 PM" src="https://github.com/user-attachments/assets/baccd967-3e71-4397-9131-e1cfe32d1002" />
+<img width="740" height="383" alt="Screenshot 2026-04-03 at 6 03 56 PM" src="https://github.com/user-attachments/assets/0f93b537-96b8-4503-ba0d-8ab77c8f320a" />
+<img width="720" height="535" alt="Screenshot 2026-04-03 at 6 04 19 PM" src="https://github.com/user-attachments/assets/3e4896ea-a14d-457c-9d53-c230ebec5ae3" />
+<img width="756" height="389" alt="Screenshot 2026-04-03 at 6 04 30 PM" src="https://github.com/user-attachments/assets/11e6a363-3174-475f-b896-24998597c3ba" />
+<img width="721" height="517" alt="Screenshot 2026-04-03 at 6 04 42 PM" src="https://github.com/user-attachments/assets/4c145d39-695b-4fdc-a3c7-585c33c2ffa8" />
+<img width="724" height="539" alt="Screenshot 2026-04-03 at 6 04 57 PM" src="https://github.com/user-attachments/assets/5ef4e50c-bc9b-409a-aa72-8e5ff3124766" />
 
 ## Queries:
   1. Query 1 selects a list of each player, and includes the teams and the tournaments they partcipated in, ordered by the tournament ID, team ID, and match ID.
