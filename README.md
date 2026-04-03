@@ -10,7 +10,7 @@
 5. Owen Verlander - [@owenver](https://github.com/owenver)
 ## Problem Description:
 
-## Data Model Descripton
+## Data Model Descripton:
 
 ## Data Model
 <img width="1530" height="1476" alt="IMG_8415" src="https://github.com/user-attachments/assets/7ea0c59b-a278-43b8-ad70-9d04b714e7ab" />
