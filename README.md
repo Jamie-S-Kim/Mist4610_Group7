@@ -80,7 +80,7 @@ Query 6 helps managers assess team performance relative to expectations by displ
 
 Query 7 helps managers review important operational details about tournaments, including how long each event lasts and where it is being held. By filtering for tournaments with meaningful statuses and valid locations, managers can focus on events that are most relevant for scheduling, planning, and monitoring tournament activity.
 
-8. Query 8
+  8. Query 8 selects a list of each tournament name, team name, and the total amount of prize money that each team won in that tournament, ordered by the tournament name and total prize won in descending order.
 
 9. Query 9
 
