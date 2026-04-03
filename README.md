@@ -11,7 +11,19 @@
 ## Problem Description:
 
 ## Data Model Descripton:
+Our data model represents the structure of a professional e-sports tournament organization. The core entity in our data model is the Tournaments entity, which contains attributes describing each event, including its name, start and end dates, status, and location. Each tournament is associated with a specific video game, which is stored in the Games entity. Because a single game can be featured in many tournaments, while each tournament is played for only one game, this creates a one-to-many relationship between the Games and Tournaments entities.
 
+Our Teams entity stores information about the different teams that compete in tournaments. Since teams can participate in multiple tournaments and tournaments include multiple teams, we created the TeamTournament associative entity to resolve this many-to-many relationship. This allows us to identify which teams participated in each tournament while also storing tournament-specific details such as seed number and final rank.
+
+The Players entity contains attributes about individual players, such as gamer tag, first and last name, and nationality. Because players are able to be on different teams over time, we also created the PlayerTeam associative entity to track player membership history. This allows our data model to record when a player joins or leaves a team, making it possible to maintain historical roster data over time.
+
+In addition to tracking tournament participation, our model also represents how competition unfolds within each tournament. The Matches entity stores information about individual matches, including the date and time, round, and match status. Because each tournament contains multiple matches, while each match belongs to only one tournament, there is a one-to-many relationship between the Tournaments and Matches entities.
+
+Since each match involves multiple teams and each team competes in multiple matches, we created the MatchParticipants associative entity to resolve this many-to-many relationship. This entity allows us to record which teams are participating in each match, along with additional details such as score and side/role. This design helps preserve match-specific team performance data in a normalized structure.
+
+Our data model also accounts for the sponsorship and financial aspects of tournaments. The Sponsors entity stores information about organizations that financially support events. Because sponsors may support multiple tournaments, and tournaments may also have multiple sponsors, we created the SponsoredTournament associative entity to represent this many-to-many relationship. This entity also allows us to store additional sponsorship details such as the sponsorship level, contribution amount, and return on investment (ROI) metrics.
+
+To support tournament prize management, the model includes a PrizePools entity that stores the total prize amount associated with each tournament. The PrizeDistribution entity then records how the prize pool is distributed among teams based on their placement. Finally, the Payment entity tracks the actual payout transactions, including payment amount, method, date, and status. Together, these entities allow the organization to manage the full financial lifecycle of tournament rewards.
 ## Data Model
 <img width="1530" height="1476" alt="IMG_8415" src="https://github.com/user-attachments/assets/7ea0c59b-a278-43b8-ad70-9d04b714e7ab" />
 
