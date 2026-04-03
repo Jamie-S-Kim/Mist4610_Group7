@@ -22,6 +22,11 @@
 <img width="756" height="389" alt="Screenshot 2026-04-03 at 6 04 30 PM" src="https://github.com/user-attachments/assets/11e6a363-3174-475f-b896-24998597c3ba" />
 <img width="721" height="517" alt="Screenshot 2026-04-03 at 6 04 42 PM" src="https://github.com/user-attachments/assets/4c145d39-695b-4fdc-a3c7-585c33c2ffa8" />
 <img width="724" height="539" alt="Screenshot 2026-04-03 at 6 04 57 PM" src="https://github.com/user-attachments/assets/5ef4e50c-bc9b-409a-aa72-8e5ff3124766" />
+<img width="701" height="372" alt="Screenshot 2026-04-03 at 6 05 24 PM" src="https://github.com/user-attachments/assets/333a50e7-246c-41b6-85c5-f974ac2a3788" />
+<img width="753" height="468" alt="Screenshot 2026-04-03 at 6 05 40 PM" src="https://github.com/user-attachments/assets/797c8e5d-c796-43d8-9175-4dfe24a0e1f2" />
+<img width="776" height="293" alt="Screenshot 2026-04-03 at 6 06 00 PM" src="https://github.com/user-attachments/assets/8486ab89-32de-4d90-8f6f-d1ea870a99a8" />
+<img width="777" height="431" alt="Screenshot 2026-04-03 at 6 06 22 PM" src="https://github.com/user-attachments/assets/e16a8d8d-a616-4e99-b73a-7ebc1c36533c" />
+<img width="788" height="446" alt="Screenshot 2026-04-03 at 6 06 42 PM" src="https://github.com/user-attachments/assets/992ea1ae-dc5c-4ad0-9341-cd0303821979" />
 
 ## Queries:
   1. Query 1 selects a list of each player, and includes the teams and the tournaments they partcipated in, ordered by the tournament ID, team ID, and match ID.
