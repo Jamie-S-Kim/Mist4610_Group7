@@ -43,7 +43,7 @@ To support tournament prize management, the model includes a PrizePools entity t
 <img width="788" height="446" alt="Screenshot 2026-04-03 at 6 06 42 PM" src="https://github.com/user-attachments/assets/992ea1ae-dc5c-4ad0-9341-cd0303821979" />
 
 ## Queries:
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/db4f3a3f-8583-4fbb-9343-a6ea3acf365e" />
+<img width="744" height="507" alt="querytable_ss" src="https://github.com/user-attachments/assets/86aa9e25-b972-4fc4-bab2-cc3744467d3b" />
 
   1. Query 1 selects a list of each player, and includes the teams and the tournaments they partcipated in, ordered by the tournament ID, team ID, and match ID.
 <img width="2206" height="1216" alt="image" src="https://github.com/user-attachments/assets/c01f72b8-9968-4a0a-af27-86f2ca8e527f" />
