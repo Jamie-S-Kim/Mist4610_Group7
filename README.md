@@ -7,7 +7,7 @@
 2. Sienna Wong - [@s1ennawong](https://github.com/s1ennawong)
 3. Shaehaan Khaja - [@shaehaankhaja](https://github.com/shaehaankhaja)
 4. Seth White - [@sethwhite444](https://github.com/sethwhite444)
-5. Owen Verlander - 
+5. Owen Verlander - [@owenver](https://github.com/owenver)
 ## Problem Description:
 
 ## Data Model
