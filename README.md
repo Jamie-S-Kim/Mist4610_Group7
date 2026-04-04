@@ -86,6 +86,7 @@ Query 7 helps managers review important operational details about tournaments, i
 Query 8 allows managers to see how prize money is distributed among teams in each tournament. This is important because it helps tournament organizers evaluate which teams performed well enough to earn the largest payouts and how prize money is being allocated across events. By reviewing this information, managers can better understand tournament outcomes, compare team success across competitions, and ensure that prize distributions are accurate and aligned with tournament results. This query also helps support financial review and performance analysis when making future tournament planning decisions.
 
   9. Query 9 lists players who have left a team, along with the team they were on and the date they left, ordered by the leave date
+<img width="1013" height="592" alt="query9_results" src="https://github.com/user-attachments/assets/c0eacf10-1695-4b69-ae65-454768a37936" />
 
 Query 9 helps tournament managers track player departures and roster changes across teams over time. By identifying when players leave specific teams, managers are able to monitor team stability and detect frequent roster changes that may impact performance. This information is important for maintaining accurate team records and understanding player movement within the competitive scene. Additionally, it supports strategic decisions such as roster planning, contract management, and evaluating team consistency leading into tournaments.
 
