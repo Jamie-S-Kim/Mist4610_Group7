@@ -81,6 +81,7 @@ Query 6 helps managers assess team performance relative to expectations by displ
 Query 7 helps managers review important operational details about tournaments, including how long each event lasts and where it is being held. By filtering for tournaments with meaningful statuses and valid locations, managers can focus on events that are most relevant for scheduling, planning, and monitoring tournament activity.
 
   8. Query 8 selects a list of each tournament name, team name, and the total amount of prize money that each team won in that tournament, ordered by the tournament name and total prize won in descending order.
+<img width="1018" height="595" alt="query8_results" src="https://github.com/user-attachments/assets/35ded8fb-b4c8-495f-9bc7-c322128fd63d" />
 
 Query 8 allows managers to see how prize money is distributed among teams in each tournament. This is important because it helps tournament organizers evaluate which teams performed well enough to earn the largest payouts and how prize money is being allocated across events. By reviewing this information, managers can better understand tournament outcomes, compare team success across competitions, and ensure that prize distributions are accurate and aligned with tournament results. This query also helps support financial review and performance analysis when making future tournament planning decisions.
 
@@ -89,6 +90,7 @@ Query 8 allows managers to see how prize money is distributed among teams in eac
 Query 9 helps tournament managers track player departures and roster changes across teams over time. By identifying when players leave specific teams, managers are able to monitor team stability and detect frequent roster changes that may impact performance. This information is important for maintaining accurate team records and understanding player movement within the competitive scene. Additionally, it supports strategic decisions such as roster planning, contract management, and evaluating team consistency leading into tournaments.
 
   10. Query 10 selects a list of each tournament ID, tournament name, start date, end date, status, and location for tournaments that do not currently have a sponsor.
+<img width="1020" height="593" alt="query10_results" src="https://github.com/user-attachments/assets/a555c219-fad0-4731-af2c-176e479245d7" />
 
 Query 10 helps tournament managers identify which tournaments currently do not have any sponsorship support. By highlighting tournaments without sponsors, managers are able to determine which events may require additional sponsor outreach and financial support. This is important because sponsorships are a major source of revenue for esports tournaments and help cover costs such as prize pools, venue expenses, marketing, and operations. Additionally, this information allows managers to better allocate resources, improve sponsorship strategies, and ensure the financial stability of future tournaments.
 
